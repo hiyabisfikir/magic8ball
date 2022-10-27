@@ -1,0 +1,56 @@
+.box1 {
+    margin: auto;
+    text-align: center;
+    margin: 5px;
+    padding-top: 2em;
+    padding-bottom: 0.2em;
+}
+
+.box2 {
+font-size: 25px;
+width: 100px;
+
+}
+
+#content:hover {
+    background-color: burlywood;
+    cursor: pointer;
+
+}
+
+.box2 {
+    background-color:white;
+    cursor: pointer;
+
+}
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  }
+  body {
+      background: linear-gradient(85deg , brown , orange);
+  }
+  #content {
+      background: whitesmoke;
+      width: 450px;
+      margin: auto;
+      text-align: center;
+      padding: 25px;
+      border-radius: 6px;
+  }
+  #eightball {
+      width: 400px;
+      height: 400px;
+      background-color: black; 
+      margin: auto;
+      color: white;
+      margin-top: 10px;
+      border-radius: 110%;
+      display: grid;
+      align-items: center;
+      justify-content: center;
+  }
+
+  #answer {
+      font-size: 25px;
+  }
+
